@@ -7,9 +7,9 @@
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf
 - 代码：https://github.com/FishYuLi/BalancedGroupSoftmax
 
-![image-20210221123321979](F:\study\文献\1467篇CVPR 2020论文（CVer整理）\目标检测\img\image-20210221123321979.png)
+![image-20210221123321979](\目标检测\img\image-20210221123321979.png)
 
-![image-20210221142734301](F:\study\文献\1467篇CVPR 2020论文（CVer整理）\目标检测\img\image-20210221142734301.png)
+![image-20210221142734301](\目标检测\img\image-20210221142734301.png)
 
 
 
@@ -20,7 +20,7 @@
 - 论文：http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_AugFPN_Improving_Multi-Scale_Feature_Learning_for_Object_Detection_CVPR_2020_paper.pdf 
 - 代码：https://github.com/Gus-Guo/AugFPN
 
-![image-20210221145230413](F:\study\文献\1467篇CVPR 2020论文（CVer整理）\目标检测\img\image-20210221145230413.png)
+![image-20210221145230413](\目标检测\img\image-20210221145230413.png)
 
 
 
